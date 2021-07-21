@@ -21,7 +21,7 @@ pipeline {
       stage("package"){
           steps{
               echo 'generating the artifacts...'
-              sh 'mvn package -DskipTests
+              sh 'mvn package -DskipTests'
           }
       }
   }
