@@ -1,0 +1,232 @@
+[33mcommit 4fe947ca4ba9c4898463dc94b4405dd703b37e4f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 08:54:04 2021 +0000
+
+    testin
+
+[33mcommit fac912103ccf82adce1f14ceb1797464542de890[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 03:55:31 2021 +0000
+
+    adding Jenkinsfile for sysfoo
+
+[33mcommit d8b734a02400449708609520d42396df0f717ca0[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 09:23:28 2021 +0530
+
+    Delete Jenkinsfile
+
+[33mcommit ca03037999999076f37cdabca1fe25e785099351[m
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 03:51:42 2021 +0000
+
+    adding Jenkinsfile for sysfoo
+
+[33mcommit a6fa50cfc8ded51b2f2e9e77019adad169e485b8[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 09:19:26 2021 +0530
+
+    Delete Jenkinsfile
+
+[33mcommit 84bf803fcb9fd03323bbeecb4e4f1cc339f72c2e[m
+Merge: dc71862 dc599c7
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 02:57:13 2021 +0000
+
+    adding Jenkinsfile for sysfoo
+
+[33mcommit dc718627cc6f8d11236f505d45263929bac958bc[m
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 02:55:26 2021 +0000
+
+    adding Jenkinsfile for sysfoo
+
+[33mcommit dc599c7dbb283123245fe785f57299b78a66874b[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 08:19:43 2021 +0530
+
+    Delete Jenkinsfile
+
+[33mcommit ad9c7b620e32613b78d24523e056b575f2a4578a[m
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 01:01:25 2021 +0000
+
+    adding Jenkinsfile for sysfoo
+
+[33mcommit 2962149d9b7c9411f1b1550e47ea304bd3fa0385[m
+Merge: 28b994b 7f676fa
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 00:45:55 2021 +0000
+
+    add updated fle Merge branch 'master' of https://github.com/ramesh-beep/sysfoo
+
+[33mcommit 7f676fac22749fa96311c2eafc2a54d30566a3a2[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 06:13:15 2021 +0530
+
+    Delete Jenkinsfile
+
+[33mcommit 28b994bbe98a79bed78f59f9ac3572802277db5d[m
+Merge: 34b1956 3c203ff
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 00:40:57 2021 +0000
+
+    Merge branch 'master' of https://github.com/ramesh-beep/sysfoo
+
+[33mcommit 34b1956d08d7d5e6f3c232429f57b54005e62664[m
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Wed Jul 21 00:39:50 2021 +0000
+
+    adding Jenkinsfile for sysfoo
+
+[33mcommit 3c203ff51ae376949e387d2846500f71bf129db6[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 06:06:30 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 5dd78195236f69369b511aeeb9b138c1c26c3668[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 05:52:09 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 37ebfebfe0bb9cf27222d37ddde53ad9b37492c2[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 05:45:02 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit b7256a5d04f40cbfd62aed382a2af93c5bf1048b[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 05:38:04 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit 1bdc54d638fbbd40729e8b0b27a3372e1a8cc44a[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 05:30:49 2021 +0530
+
+    Update Jenkinsfile
+
+[33mcommit fb428bff0199f1ec8e07ce24f26565f9cf8b5369[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Wed Jul 21 05:18:28 2021 +0530
+
+    Update README.md
+
+[33mcommit 5e0d9b67c6e352bad738825b456ee2e5252cae1f[m
+Author: ramesh-beep <mukkaramesh1993@gmail.com>
+Date:   Tue Jul 20 10:37:34 2021 +0000
+
+    add updated Jenkinsfile
+
+[33mcommit be746a6800fea43777c63d950d764711ee2af22f[m
+Author: ramesh-beep <73376109+ramesh-beep@users.noreply.github.com>
+Date:   Tue Jul 20 14:49:56 2021 +0530
+
+    Update README.md
+
+[33mcommit 931bc6771a12ebe99281ad5bf4f733d0e7d1fa29[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Jan 25 16:41:20 2021 +0530
+
+    create README
+
+[33mcommit ff308fd1f84df4a93a7538b30f26dc5f7dfac0cc[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Oct 20 09:55:38 2020 +0530
+
+    Delete Jenkinsfile
+
+[33mcommit 0c4408273d4ff9e22e720db19532d406acf7889d[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Oct 20 04:05:40 2020 +0000
+
+    adding Jenkinsfile
+
+[33mcommit 133ca825dff6fb89b84e64ecf3d431e5261c805e[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Aug 14 22:49:33 2017 +0530
+
+    0.0.2
+    
+    version 0.0.2
+
+[33mcommit a82fe88fc3447c36d6c38f3b4e356d3564e1dee5[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Jun 26 17:06:07 2017 +0530
+
+    update button
+
+[33mcommit c618fb60214508443d7f4fccf7ebf24cc2f4a9f0[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Jun 26 16:59:28 2017 +0530
+
+    change bkground color
+
+[33mcommit 7b53f3c529d77907f1cc742a01f66ce2e4639d08[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Jun 26 16:51:50 2017 +0530
+
+    updated header and description
+
+[33mcommit 4b59b7fc2a4d00d7def577716cfaed665873a0b5[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Jun 26 16:43:10 2017 +0530
+
+    update the image and description about sodc
+
+[33mcommit 58cf7cafd2856030aae201307ad324139670cb11[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Mon Jun 26 11:46:09 2017 +0530
+
+    get local addr
+
+[33mcommit 3f58646bc7e2b845982679ecbd3cdb110489a088[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Thu Jun 22 15:47:41 2017 +0530
+
+    0.0.2
+
+[33mcommit a0ea0dd06186bf590eb83feb29cb7fdb0dccb331[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 20 10:00:24 2017 +0530
+
+    app is now called as sysfoo
+
+[33mcommit 2566e3914738d78f21f921998e058d98193d8451[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 20 09:55:30 2017 +0530
+
+    bacl to mvn package
+
+[33mcommit 9027c2b412d4989a46b27fb0529e9f83328953c4[m
+Author: System Administrator <root@Gouravs-MacBook-Pro.local>
+Date:   Tue Jun 20 09:50:12 2017 +0530
+
+    update circle ci config to use build instead of package as maven target
+
+[33mcommit aeb3d36a63f8ee788f2df30072d49561c1f392bd[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 20 09:41:14 2017 +0530
+
+    adding circle and travis configs
+
+[33mcommit 54fcac293f56202eb22abc549de7950f8e01980a[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 20 09:40:33 2017 +0530
+
+    cleaning up target dir
+
+[33mcommit 62ebbdd3e113750d9f413e33ae058441a35649eb[m
+Author: Gourav Shah <gs@initcron.org>
+Date:   Tue Jun 20 03:56:11 2017 +0000
+
+    Update index.jsp
+
+[33mcommit 4d80f9f6b29a0aed76943986143ba4d3bd359042[m
+Author: Meenachisundaram Velmurugan <ms.v@initcron.org>
+Date:   Sat Jun 17 12:23:49 2017 +0530
+
+    initial commit
