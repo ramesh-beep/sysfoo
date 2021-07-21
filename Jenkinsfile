@@ -15,12 +15,12 @@ pipeline {
       stage("test"){
           steps{
               echo 'running unit tests...'
-              sh 'mvn clean tests'
+              sh 'mvn clean test'
           }
       }
       stage("package"){
           steps{
-              echo 'generating the artifacts...'
+              echo 'generating the artifact...'
               sh 'mvn package -DskipTests'
           }
       }
